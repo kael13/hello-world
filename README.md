@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Myfirst repo in GitHub yay!
+My first repo in GitHub yay!
 
 Hello!
